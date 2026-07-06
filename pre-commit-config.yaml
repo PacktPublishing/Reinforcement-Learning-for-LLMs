@@ -1,0 +1,28 @@
+repos:
+  # Strip notebook outputs before every commit: keeps diffs readable
+  # and prevents accidental embedding of model outputs or tokens.
+  - repo: https://github.com/kynan/nbstripout
+    rev: 0.7.1
+    hooks:
+      - id: nbstripout
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+        exclude: '\.ipynb$'
+      - id: check-yaml
+      - id: check-added-large-files
+        args: ["--maxkb=5000"]   # block accidental model weight commits
+      - id: detect-private-key
+
+  # Lint and format utils/*.py
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.4.4
+    hooks:
+      - id: ruff
+        args: [--fix]
+        types_or: [python]
+      - id: ruff-format
+        types_or: [python]

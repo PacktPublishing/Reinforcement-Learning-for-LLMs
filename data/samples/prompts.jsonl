@@ -1,0 +1,5 @@
+{"prompt": "Explain the intuition behind RLHF in one paragraph."}
+{"prompt": "What is reward hacking and why is it a problem?"}
+{"prompt": "Compare PPO and GRPO for LLM fine-tuning."}
+{"prompt": "What makes DPO simpler than traditional RLHF?"}
+{"prompt": "Describe the cold start problem in RL for LLMs."}

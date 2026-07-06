@@ -1,0 +1,30 @@
+# =============================================================================
+# requirements.txt: Reinforcement Learning for Large Language Models (Packt, 2026)
+#
+# SOURCE OF TRUTH for notebook dependency versions.
+# Pinned to a validated Google Colab (T4) run on 2026-06-29.
+#
+# The per-notebook "Setup" cell is generated from this file by
+# scripts/sync_notebook_setup.py: edit versions HERE, then re-run that script.
+#
+# NOTE: we deliberately do NOT pin torch / numpy / triton. Google Colab ships
+# GPU-matched builds of these, and overriding them can break the CUDA runtime.
+# =============================================================================
+
+# ── Core fine-tuning / RL stack ──────────────────────────────────────────────
+transformers==5.5.0
+trl==0.24.0
+peft==0.19.1
+datasets==4.3.0
+accelerate==1.14.0
+bitsandbytes==0.49.2
+
+# ── Evaluation / utilities (unpinned; stable APIs) ───────────────────────────
+evaluate
+rouge_score
+scipy
+scikit-learn
+sentencepiece
+huggingface_hub
+einops
+wandb
