@@ -1,7 +1,7 @@
 # Reinforcement Learning for Large Language Models
 ### *A Complete Guide*: Companion Code
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part1_foundations/01_math_toolkit.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part1_foundations/01_math_toolkit.ipynb)
 ![Runs on a free Colab T4](https://img.shields.io/badge/runs%20on-free%20Colab%20T4-F9AB00)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB)
 ![License Apache 2.0](https://img.shields.io/badge/code-Apache%202.0-green)
@@ -29,44 +29,44 @@ That's it, nothing to clone or `pip install` locally.
 
 | # | Chapter | Open |
 |---|---------|:----:|
-| 1 | Essential Math Toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part1_foundations/01_math_toolkit.ipynb) |
-| 2 | Why LLMs Need RL: The Alignment Gap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part1_foundations/02_alignment_gap.ipynb) |
-| 3 | RL Fundamentals: The Complete Picture | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part1_foundations/03_rl_fundamentals.ipynb) |
-| 4 | Setting Up Your Free Environment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part1_foundations/04_environment_setup.ipynb) |
+| 1 | Essential Math Toolkit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part1_foundations/01_math_toolkit.ipynb) |
+| 2 | Why LLMs Need RL: The Alignment Gap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part1_foundations/02_alignment_gap.ipynb) |
+| 3 | RL Fundamentals: The Complete Picture | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part1_foundations/03_rl_fundamentals.ipynb) |
+| 4 | Setting Up Your Free Environment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part1_foundations/04_environment_setup.ipynb) |
 
 ## Part 2: Core Methods
 *The alignment toolkit, each built from scratch: SFT → RLHF → DPO → reward models → GRPO.*
 
 | # | Chapter | Open |
 |---|---------|:----:|
-| 5 | Supervised Fine-Tuning & The Cold Start | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/05_sft.ipynb) |
-| 6 | RLHF: The Three-Step Dance (PPO) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/06_rlhf_ppo.ipynb) |
-| 7 | Direct Preference Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/07_dpo.ipynb) |
-| 8 | Online DPO & Iterative Alignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/08_online_dpo.ipynb) |
-| 9 | Reward Modeling & The Critic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/09_reward_modeling.ipynb) |
-| 10 | Modern RL Algorithms: GRPO, RLOO, KTO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part2_core/10_grpo_rloo_kto.ipynb) |
+| 5 | Supervised Fine-Tuning & The Cold Start | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/05_sft.ipynb) |
+| 6 | RLHF: The Three-Step Dance (PPO) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/06_rlhf_ppo.ipynb) |
+| 7 | Direct Preference Optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/07_dpo.ipynb) |
+| 8 | Online DPO & Iterative Alignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/08_online_dpo.ipynb) |
+| 9 | Reward Modeling & The Critic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/09_reward_modeling.ipynb) |
+| 10 | Modern RL Algorithms: GRPO, RLOO, KTO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part2_core/10_grpo_rloo_kto.ipynb) |
 
 ## Part 3: Advanced Techniques
 *Verifiable rewards, reasoning models (the DeepSeek-R1 recipe), test-time compute, and self-improvement.*
 
 | # | Chapter | Open |
 |---|---------|:----:|
-| 11 | Verifiers & Outcome Rewards | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/11_verifiers_outcome_rewards.ipynb) |
-| 12a | Reasoning with GRPO: Concepts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/12a_reasoning_grpo_concepts.ipynb) |
-| 12b | Reasoning with GRPO: The DeepSeek Recipe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/12b_reasoning_grpo_deepseek.ipynb) |
-| 13 | Test-Time Compute: Scaling at Inference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/13_test_time_compute.ipynb) |
-| 14 | Self-Play & Constitutional AI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/14_selfplay_constitutional_ai.ipynb) |
-| 15 | Multi-Objective RL & Agentic Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/15_multiobjective_agentic.ipynb) |
-| 16 | Domain-Specific RL: Code, Math, Tools | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part3_advanced/16_domain_specific_rl.ipynb) |
+| 11 | Verifiers & Outcome Rewards | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/11_verifiers_outcome_rewards.ipynb) |
+| 12a | Reasoning with GRPO: Concepts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/12a_reasoning_grpo_concepts.ipynb) |
+| 12b | Reasoning with GRPO: The DeepSeek Recipe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/12b_reasoning_grpo_deepseek.ipynb) |
+| 13 | Test-Time Compute: Scaling at Inference | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/13_test_time_compute.ipynb) |
+| 14 | Self-Play & Constitutional AI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/14_selfplay_constitutional_ai.ipynb) |
+| 15 | Multi-Objective RL & Agentic Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/15_multiobjective_agentic.ipynb) |
+| 16 | Domain-Specific RL: Code, Math, Tools | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part3_advanced/16_domain_specific_rl.ipynb) |
 
 ## Part 4: Production Recipes
 *Three end-to-end pipelines, each combining the earlier building blocks.*
 
 | # | Chapter | What it builds | Open |
 |---|---------|----------------|:----:|
-| 17 | Recipe: Chatbot | SFT → reward model → DPO (helpful **and** safe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part4_recipes/17_recipe_chatbot.ipynb) |
-| 18 | Recipe: Reasoner | SFT (chain-of-thought) → GRPO → test-time scaling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part4_recipes/18_recipe_reasoner.ipynb) |
-| 19 | Recipe: Agent | Tool-use SFT + trajectory rewards + constitutional safety | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunpshankar/packt-final/blob/main/code/notebooks/part4_recipes/19_recipe_agent.ipynb) |
+| 17 | Recipe: Chatbot | SFT → reward model → DPO (helpful **and** safe) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part4_recipes/17_recipe_chatbot.ipynb) |
+| 18 | Recipe: Reasoner | SFT (chain-of-thought) → GRPO → test-time scaling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part4_recipes/18_recipe_reasoner.ipynb) |
+| 19 | Recipe: Agent | Tool-use SFT + trajectory rewards + constitutional safety | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Reinforcement-Learning-for-LLMs/blob/main/notebooks/part4_recipes/19_recipe_agent.ipynb) |
 
 ---
 
@@ -86,18 +86,19 @@ Everything trains on a **0.5B** model so the full run fits a free T4. Larger mod
 ## Repository structure
 
 ```
-packt-final/
-├── code/
-│   ├── notebooks/
-│   │   ├── part1_foundations/     # Chapters 1–4
-│   │   ├── part2_core/            # Chapters 5–10
-│   │   ├── part3_advanced/        # Chapters 11–16
-│   │   └── part4_recipes/         # Chapters 17–19
-│   ├── requirements.txt           # pinned dependency versions (source of truth)
-│   ├── scripts/                   # notebook-tooling helpers
-│   └── README.md                  # (this file)
-├── chapters/                      # LaTeX source for all 19 chapters
-└── book/                          # compiled PDFs (per-chapter + thebook.pdf)
+Reinforcement-Learning-for-LLMs/
+├── data/                      # Sample data and artifacts
+├── notebooks/
+│   ├── part1_foundations/     # Chapters 1–4
+│   ├── part2_core/            # Chapters 5–10
+│   ├── part3_advanced/        # Chapters 11–16
+│   └── part4_recipes/         # Chapters 17–19
+├── scripts/                   # Maintenance and setup scripts
+├── utils/                     # Custom helper modules (data, eval, viz)
+├── LICENSE
+├── README.md                  # (this file)
+├── pre-commit-config.yaml
+└── requirements.txt           # pinned dependency versions (source of truth)
 ```
 
 ---
